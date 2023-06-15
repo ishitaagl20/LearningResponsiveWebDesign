@@ -1,7 +1,7 @@
 # Learning Responsive Web Design
 Task 1: Made a simple static webpage using HTML.
 <br>
-Task2: Made another webpage using HTML+CSS
+Task 2: Made another webpage using HTML+CSS
 <br>
 Yet to complete other tasks.
 
