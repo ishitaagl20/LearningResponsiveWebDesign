@@ -1,5 +1,5 @@
 # Learning Responsive Web Design
-Task 1: Made a simple static webpage using HTML.
+Completed two sub projects, One is a simple HTML static page and the other is a simple HTML + CSS page.
 <br>
 Yet to complete other tasks.
 
