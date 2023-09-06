@@ -1,5 +1,5 @@
 # Learning Responsive Web Design
-Completed three sub projects, One is a simple HTML static page and the other is a simple HTML + CSS page. The third, focused on different color techniques in CSS.
+Completed four practice static web pages using html and css.
 <br>
 Yet to complete other tasks.
 
