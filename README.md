@@ -1,5 +1,5 @@
 # Learning Responsive Web Design
-Completed four practice static web pages using html and css.
+Completed five practice static web pages using html and css.
 <br>
 Yet to complete some lessons and tasks.
 
